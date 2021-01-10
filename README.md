@@ -1,4 +1,4 @@
-﻿# Social Distancing and Face Mask Detection :mask:
+# Social Distancing and Face Mask Detection :mask:
 [![](https://img.shields.io/badge/Python-%3E%3D3.8-red?style=for-the-badge&logo=python)](https://www.python.org/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/yolo%20-v3-yellowgreen?style=for-the-badge&logo=Yolo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/TensorFlow-v2.4.0-blue?style=for-the-badge&logo=TensorFlow) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 ![covid alert!](https://neuralet.com/wp-content/uploads/2020/10/cover2.jpg)
@@ -35,7 +35,7 @@
 |:point_right:|Linux | [click here](https://docs.anaconda.com/anaconda/install/linux/) |
 
 
-:loudspeaker: During Installation be sure to check to set *Environmental variable path 
+:loudspeaker: During Installation be sure to check to set *Environmental variable path* 
 
 * Create new Environment for the installation of libraries:
 	* Open Command Prompt / Anaconda Prompt and type `conda create --name tf_python`  
@@ -52,18 +52,17 @@
 
  
 > ## File Required to Download -- 
- * **DATASETS :** 
-	 &nbsp;  &nbsp;  &nbsp;  &nbsp; Using datasets to train the model for ***Face Mask Detection*** model. To download the dataset -- :point_right:<a href="https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples"> *Click here* </a>  &nbsp;:point_left: (Dataset with 4,000 Images Sampels) <font size="2"> </br> 
-	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :star2:File contain 2 Sub-Folder i.e. With_mask & Without_mask (each folder contain 2k samples of images)). 
+ * **DATASETS :** </br>
+	 &nbsp;  &nbsp;  &nbsp;  &nbsp; Using datasets to train the model for ***Face Mask Detection*** model. To download the dataset -- :point_right:<a href="https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples"> *Click here* </a>  &nbsp;:point_left: (Dataset with 4,000 Images Sampels) :star2:File contain 2 Sub-Folder i.e. With_mask & Without_mask (each folder contain 2k samples of images)). 
 
 
  *	 **Yolo Weights  (V3) -- Pre-Trained model:**   
  &nbsp; &nbsp; &nbsp; &nbsp; YOLO *(You Only Live Once)*, the pre-trained weights of the neural network are stored in `yolov3.weights`
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download the Weight File :point_right: <a href="">*Click here* </a> :point_left: 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download the Weight File :point_right: <a href="https://drive.google.com/file/d/1MILq56BADd3Tj173HekMm6aycLx9gruk/view?usp=sharing">*Click here* </a> :point_left: 
 
 > ## File Structure 
 Set all downloaded files to their respective folders/path as given in Folder Structure Diagram.
-
+![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Folder%20Structure.png)
 > ## RUN the Main Module--
 *	Using Command Prompt or Anaconda Prompt:
 	*  To activate environment:--&nbsp; &nbsp; &nbsp; `conda activate tf_python`
@@ -71,7 +70,7 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 	
 
 > ## Outputs--
-
+![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Output%20Data/output_2.jpg)
 > ## Contribute:
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>:fire: Contributions are always welcome!</b>
 # Drop a :star: if you like this Repository.. :smile: 
