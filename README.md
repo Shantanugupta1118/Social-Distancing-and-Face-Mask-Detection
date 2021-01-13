@@ -89,4 +89,4 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 [linkedin-url]: https://www.linkedin.com/in/shang1118/
 [issue-image]: https://img.shields.io/badge/Any%20Issues%3F-Track%20Issue-red
 [issue-url]: https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/issues
-:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)](https://shantanug.000webhostapp.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left:
+:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)](https://shantanug.000webhostapp.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Sachin%20-Soni-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left:
