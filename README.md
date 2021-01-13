@@ -53,12 +53,17 @@
  
 > ## File Required to Download -- 
  * **DATASETS :** </br>
-	 &nbsp;  &nbsp;  &nbsp;  &nbsp; Using datasets to train the model for ***Face Mask Detection*** model. To download the dataset -- :point_right:<a href="https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples"> *Click here* </a>  &nbsp;:point_left: (Dataset with 4,000 Images Sampels) :star2:File contain 2 Sub-Folder i.e. With_mask & Without_mask (each folder contain 2k samples of images)). 
+	 &nbsp;  &nbsp;  &nbsp;  &nbsp; Using datasets to train the model for ***Face Mask Detection*** model. To download the dataset -- :point_right:<a href="https://www.kaggle.com/shantanu1118/face-mask-detection-dataset-with-4k-samples"> *Click here* </a>  &nbsp;:point_left: (Dataset with 4,000 Images Sampels) :star2:File contain 2 Sub-Folder i.e. With_mask & Without_mask (each folder contain 2k samples of images). 
+	 
+This is a balanced dataset containing faces with and without masks with a mean height of 283.68 and mean width of 278.77
+
+![data](https://user-images.githubusercontent.com/47710229/97522777-a243d080-19f4-11eb-93c9-04dea6ceec6c.png)
 
 
  *	 **Yolo Weights  (V3) -- Pre-Trained model:**   
  &nbsp; &nbsp; &nbsp; &nbsp; YOLO *(You Only Live Once)*, the pre-trained weights of the neural network are stored in `yolov3.weights`
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download the Weight File :point_right: <a href="https://drive.google.com/file/d/1MILq56BADd3Tj173HekMm6aycLx9gruk/view?usp=sharing">*Click here* </a> :point_left: 
+
 
 > ## Trained Result of Face Mask Model--
 ![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/plot.png)
