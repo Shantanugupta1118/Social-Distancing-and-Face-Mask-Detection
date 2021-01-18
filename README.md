@@ -89,7 +89,7 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 # Drop a :star: if you like this Repository.. :smile: 
 	
  
-[![enjoy][enjoy-image]][linkedin-url] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![enjoy][enjoy-image]][linkedin-url] &nbsp;&nbsp;&nbsp;&nbsp; [![status][issue-image]][issue-url]
 
 [enjoy-image]: https://img.shields.io/badge/Enjoy%20this%3F-Say%20Thanks!-yellow
 [linkedin-url]: https://www.linkedin.com/in/shang1118/
