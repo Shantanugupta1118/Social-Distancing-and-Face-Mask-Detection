@@ -1,5 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> -c conda-forge --file requirements.txt
+autopep8
 matplotlib
 numpy
 opencv
