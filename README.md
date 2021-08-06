@@ -3,13 +3,11 @@
 
 ![covid alert!](https://neuralet.com/wp-content/uploads/2020/10/cover2.jpg)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; :mask:C O V I D - 1 9   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   A L E R T!:pray:
-## Team Members: </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shantanu Gupta,</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ravi Pratap,</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rishabh Gupta,</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sachin Soni</br>
+## Developed By: </br>
+👉 &nbsp;[Shantanu Gupta]&nbsp;&nbsp;&nbsp; <a href="http://helloshantanu.ml">Portfolio</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shantanugupta1118">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shang1118/">LinkedIN</a>
 </br>
 </br>
+
 > ## About-- 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ***Social Distancing and Face Mask Detection*** Platform utilizes Artificial Network to perceive if a person walk with maintain social distance and does/doesn’t wear a mask as well. The application can be associated with any current or new IP cameras to identify individuals maintaining social distance with/without a mask. :mask: 
 </br>
@@ -95,4 +93,4 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 [linkedin-url]: https://www.linkedin.com/in/shang1118/
 [issue-image]: https://img.shields.io/badge/Any%20Issues%3F-Track%20Issue-red
 [issue-url]: https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/issues
-:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)](https://shantanug.000webhostapp.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Sachin%20-Soni-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Rishabh-Gupta-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Ravi-Pratap-orange?style=for-the-badge&logo=Coder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_left::point_left::point_left:
+:point_right::point_right::point_right: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Shantanu%20-Gupta-orange?style=for-the-badge&logo=Coder)]:point_left::point_left::point_left:
